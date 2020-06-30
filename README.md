@@ -1,7 +1,8 @@
 # human-face-generator
 
-### Implementing human face generator using GAN [Medium][1]
+### Implementing human face generator using GAN 
 
+[Explained on Medium][1]
 
 ![Output](https://github.com/sreeja-g/human-face-generator/blob/master/human-face-generator.gif)
 
